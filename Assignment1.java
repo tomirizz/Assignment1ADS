@@ -151,7 +151,7 @@ public class Assignment1 {
         if (m == 0) return n;
         return gcd(m, n % m);
     }
-
+//Calling all functions
     public static void main(String[] args) {
         Task1();
         Task2();
